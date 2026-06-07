@@ -2,8 +2,168 @@
 <!-- Pano2VR project file  -->
 <pano2vrconfig rev="15996" version="5.2.4">
   <tour>
+    <start>node14</start>
     <panorama>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>C:/Users/MandrewD/YandexDisk/Neznayka_O/Models/Zmeiny_3/Render/CG_Room/0000.png</filename>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>0</pannorth>
+      </viewingparameter>
+      <userdata>
+        <tags>CG_Room</tags>
+      </userdata>
+      <floorplans/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-8.06</pan>
+            <tilt>-4.48</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node2}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>2.77</pan>
+            <tilt>-1.86</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node3}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>11.91</pan>
+            <tilt>80.53</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node4}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>1.67</pan>
+            <tilt>58.55</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node5}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>2.95</pan>
+            <tilt>26.77</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point05</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node6}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-50.2</pan>
+            <tilt>-1.99</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point06</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node10}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-24.32</pan>
+            <tilt>2.76</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point07</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node11}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds/>
       <id>node1</id>
+    </panorama>
+    <panorama>
       <input>
         <patch/>
         <type>auto</type>
@@ -25,8 +185,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>0.78</pan>
-            <tilt>-7.61</tilt>
+            <pan>58.29</pan>
+            <tilt>-6.05</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -39,13 +199,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
+          <url>{node7}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.61</pan>
-            <tilt>-0.79</tilt>
+            <pan>-163.24</pan>
+            <tilt>-7.73</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -58,13 +218,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
+          <url>{node1}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>93.14</pan>
-            <tilt>70.31</tilt>
+            <pan>3.03</pan>
+            <tilt>-3.12</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -77,13 +237,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node4}</url>
+          <url>{node3}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>6.48</pan>
-            <tilt>50.56</tilt>
+            <pan>-170.29</pan>
+            <tilt>39.92</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -101,8 +261,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>0.43</pan>
-            <tilt>24.19</tilt>
+            <pan>-26</pan>
+            <tilt>77.05</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -115,13 +275,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
+          <url>{node5}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-23.39</pan>
-            <tilt>-4.19</tilt>
+            <pan>11.71</pan>
+            <tilt>40.95</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -134,13 +294,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
+          <url>{node6}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>28.93</pan>
-            <tilt>-1.99</tilt>
+            <pan>-57.71</pan>
+            <tilt>-5.64</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -153,14 +313,72 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node11}</url>
+          <url>{node12}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-120.48</pan>
+            <tilt>-5.4</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point08</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node10}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-23.73</pan>
+            <tilt>1.07</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point09</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node13}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-40.17</pan>
+            <tilt>0.6</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point10</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node12}</url>
           <autoplace>0</autoplace>
         </hotspot>
       </hotspots>
+      <output/>
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <output/>
+      <id>node2</id>
     </panorama>
     <panorama>
       <input>
@@ -184,8 +402,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-179.33</pan>
-            <tilt>-4.67</tilt>
+            <pan>171.12</pan>
+            <tilt>-7.79</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -198,13 +416,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
+          <url>{node2}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>1.96</pan>
-            <tilt>-4.15</tilt>
+            <pan>-172.21</pan>
+            <tilt>-2.33</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -217,13 +435,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
+          <url>{node1}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>3.51</pan>
-            <tilt>36.87</tilt>
+            <pan>69.31</pan>
+            <tilt>80.71</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -241,8 +459,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>91.6</pan>
-            <tilt>75.36</tilt>
+            <pan>175.13</pan>
+            <tilt>34.34</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -260,8 +478,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-176.7</pan>
-            <tilt>43.24</tilt>
+            <pan>-169.53</pan>
+            <tilt>20.07</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -279,8 +497,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>91.07</pan>
-            <tilt>-4.39</tilt>
+            <pan>156.62</pan>
+            <tilt>-0.84</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -293,13 +511,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node11}</url>
+          <url>{node7}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-110.89</pan>
-            <tilt>-6.72</tilt>
+            <pan>113.83</pan>
+            <tilt>-1.96</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -312,13 +530,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
+          <url>{node8}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-50.65</pan>
-            <tilt>-3.41</tilt>
+            <pan>70.91</pan>
+            <tilt>-3.89</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -331,13 +549,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
+          <url>{node9}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-37.27</pan>
-            <tilt>-0.88</tilt>
+            <pan>-73.23</pan>
+            <tilt>-5.28</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -350,13 +568,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node9}</url>
+          <url>{node13}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-13.89</pan>
-            <tilt>-1.2</tilt>
+            <pan>-140.64</pan>
+            <tilt>-4.18</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -369,44 +587,6 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node10}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>12.93</pan>
-            <tilt>0.52</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point11</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node13}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>24.7</pan>
-            <tilt>-1.29</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point12</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
           <autoplace>0</autoplace>
         </hotspot>
@@ -415,7 +595,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node2</id>
+      <id>node3</id>
     </panorama>
     <panorama>
       <input>
@@ -439,8 +619,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-135.61</pan>
-            <tilt>78.5</tilt>
+            <pan>-23.04</pan>
+            <tilt>-79.46</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -453,13 +633,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
+          <url>{node1}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>538.79</pan>
-            <tilt>-8.17</tilt>
+            <pan>-7.59</pan>
+            <tilt>-36.51</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -477,8 +657,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>179.19</pan>
-            <tilt>-1.33</tilt>
+            <pan>3.38</pan>
+            <tilt>-16.54</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -491,13 +671,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
+          <url>{node3}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-176.3</pan>
-            <tilt>21.29</tilt>
+            <pan>-10.98</pan>
+            <tilt>10.8</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -510,13 +690,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node4}</url>
+          <url>{node5}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>173.61</pan>
-            <tilt>52.23</tilt>
+            <pan>2.85</pan>
+            <tilt>6.63</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -529,121 +709,7 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node5}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>49.57</pan>
-            <tilt>-7.38</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point06</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node13}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>116.17</pan>
-            <tilt>-4.8</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point07</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node12}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-52.85</pan>
-            <tilt>-5.39</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point08</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node10}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-125.28</pan>
-            <tilt>-4.36</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point09</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node9}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-162.15</pan>
-            <tilt>0.57</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point10</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node9}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-156.39</pan>
-            <tilt>-2.57</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point11</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
+          <url>{node6}</url>
           <autoplace>0</autoplace>
         </hotspot>
       </hotspots>
@@ -651,7 +717,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node3</id>
+      <id>node4</id>
     </panorama>
     <panorama>
       <input>
@@ -675,8 +741,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-3.29</pan>
-            <tilt>-82.34</tilt>
+            <pan>-68.06</pan>
+            <tilt>-83.78</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -689,13 +755,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
+          <url>{node2}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>5.25</pan>
-            <tilt>-31.91</tilt>
+            <pan>-0.71</pan>
+            <tilt>-26.73</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -708,13 +774,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
+          <url>{node3}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.92</pan>
-            <tilt>-15.8</tilt>
+            <pan>-172.99</pan>
+            <tilt>-41.19</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -727,13 +793,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
+          <url>{node1}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>14.84</pan>
-            <tilt>2.7</tilt>
+            <pan>-177.8</pan>
+            <tilt>9.27</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -746,13 +812,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node5}</url>
+          <url>{node4}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>0.69</pan>
-            <tilt>7.17</tilt>
+            <pan>0.43</pan>
+            <tilt>5.69</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -768,145 +834,12 @@
           <url>{node6}</url>
           <autoplace>0</autoplace>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>12.47</pan>
-            <tilt>-10.51</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point06</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node13}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>22.65</pan>
-            <tilt>-16.53</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point07</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node12}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>38.62</pan>
-            <tilt>-25.45</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point08</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node11}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-9.78</pan>
-            <tilt>-10.65</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point09</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node10}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-17.29</pan>
-            <tilt>-16.33</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point10</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node9}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-39.73</pan>
-            <tilt>-32.08</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point11</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-27.38</pan>
-            <tilt>-23.05</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point12</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node4</id>
+      <id>node5</id>
     </panorama>
     <panorama>
       <input>
@@ -930,8 +863,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-175.82</pan>
-            <tilt>-34.76</tilt>
+            <pan>-50.34</pan>
+            <tilt>-76.66</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -944,13 +877,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
+          <url>{node3}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>126.09</pan>
-            <tilt>-81.4</tilt>
+            <pan>178.49</pan>
+            <tilt>-32.31</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -968,8 +901,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>3.99</pan>
-            <tilt>-25.13</tilt>
+            <pan>-173.98</pan>
+            <tilt>-19.25</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -982,13 +915,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
+          <url>{node1}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>2.35</pan>
-            <tilt>1.77</tilt>
+            <pan>158.65</pan>
+            <tilt>-20.02</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1001,13 +934,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
+          <url>{node7}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-175.42</pan>
-            <tilt>0.62</tilt>
+            <pan>115.49</pan>
+            <tilt>-47.4</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1020,13 +953,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node4}</url>
+          <url>{node8}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>20.15</pan>
-            <tilt>-17.85</tilt>
+            <pan>67.04</pan>
+            <tilt>-48.82</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1039,13 +972,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node13}</url>
+          <url>{node9}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>29.39</pan>
-            <tilt>-26.03</tilt>
+            <pan>-155.08</pan>
+            <tilt>-19.49</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1058,13 +991,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node12}</url>
+          <url>{node11}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>89.33</pan>
-            <tilt>-38.44</tilt>
+            <pan>-130.54</pan>
+            <tilt>-31.87</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1077,13 +1010,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node11}</url>
+          <url>{node12}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-15.34</pan>
-            <tilt>-18.31</tilt>
+            <pan>-76.02</pan>
+            <tilt>-37.32</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1096,13 +1029,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node10}</url>
+          <url>{node13}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-36.03</pan>
-            <tilt>-30.16</tilt>
+            <pan>172.78</pan>
+            <tilt>7.05</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1115,13 +1048,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node9}</url>
+          <url>{node5}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-56.99</pan>
-            <tilt>-43.95</tilt>
+            <pan>-174.11</pan>
+            <tilt>4.66</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1134,26 +1067,7 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-111.98</pan>
-            <tilt>-44.73</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point12</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
+          <url>{node4}</url>
           <autoplace>0</autoplace>
         </hotspot>
       </hotspots>
@@ -1161,7 +1075,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node5</id>
+      <id>node6</id>
     </panorama>
     <panorama>
       <input>
@@ -1185,8 +1099,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-31.73</pan>
-            <tilt>-76.56</tilt>
+            <pan>-62.35</pan>
+            <tilt>-7.75</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1199,13 +1113,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
+          <url>{node2}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>177.25</pan>
-            <tilt>-31.92</tilt>
+            <pan>-140.42</pan>
+            <tilt>35.82</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1218,13 +1132,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
+          <url>{node4}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-178.34</pan>
-            <tilt>-15.07</tilt>
+            <pan>-53.49</pan>
+            <tilt>43.08</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1237,13 +1151,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
+          <url>{node5}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>178.15</pan>
-            <tilt>3.08</tilt>
+            <pan>-17.62</pan>
+            <tilt>26.73</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1256,13 +1170,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node4}</url>
+          <url>{node6}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>158</pan>
-            <tilt>2.76</tilt>
+            <pan>1.77</pan>
+            <tilt>-3.41</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1275,140 +1189,7 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node5}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>47.56</pan>
-            <tilt>-43</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point06</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node13}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>107.51</pan>
-            <tilt>-42.91</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point07</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node12}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>154.44</pan>
-            <tilt>-24.5</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point08</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node11}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-45.24</pan>
-            <tilt>-38.05</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point09</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node10}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-119.19</pan>
-            <tilt>-42.65</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point10</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node9}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-147.16</pan>
-            <tilt>-31.13</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point11</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
           <url>{node8}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-159.27</pan>
-            <tilt>-22.04</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point12</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
           <autoplace>0</autoplace>
         </hotspot>
       </hotspots>
@@ -1416,7 +1197,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node6</id>
+      <id>node7</id>
     </panorama>
     <panorama>
       <input>
@@ -1440,8 +1221,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>21.57</pan>
-            <tilt>28.36</tilt>
+            <pan>-9.7</pan>
+            <tilt>-12.72</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1454,13 +1235,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
+          <url>{node9}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>81.55</pan>
-            <tilt>39.96</tilt>
+            <pan>-49.1</pan>
+            <tilt>30.44</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1473,13 +1254,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node5}</url>
+          <url>{node3}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>148.43</pan>
-            <tilt>34.18</tilt>
+            <pan>-73.42</pan>
+            <tilt>-8.42</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1492,13 +1273,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node4}</url>
+          <url>{node3}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>24.07</pan>
-            <tilt>-2.59</tilt>
+            <pan>-109.22</pan>
+            <tilt>40.8</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1511,13 +1292,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
+          <url>{node5}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>81.25</pan>
-            <tilt>-7.62</tilt>
+            <pan>-160.81</pan>
+            <tilt>28.02</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1530,102 +1311,7 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>164.26</pan>
-            <tilt>-3.13</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point06</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>6.54</pan>
-            <tilt>-12.62</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point07</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-11.98</pan>
-            <tilt>-5.8</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point08</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-2.61</pan>
-            <tilt>-2.16</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point09</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>89.58</pan>
-            <tilt>-1.79</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point10</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node11}</url>
+          <url>{node4}</url>
           <autoplace>0</autoplace>
         </hotspot>
       </hotspots>
@@ -1633,7 +1319,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node7</id>
+      <id>node8</id>
     </panorama>
     <panorama>
       <input>
@@ -1657,8 +1343,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-4.25</pan>
-            <tilt>-7.09</tilt>
+            <pan>154.63</pan>
+            <tilt>-8.28</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1671,13 +1357,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node10}</url>
+          <url>{node8}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-4.83</pan>
-            <tilt>-3.51</tilt>
+            <pan>-103.72</pan>
+            <tilt>-6.15</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1690,13 +1376,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node10}</url>
+          <url>{node13}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>178.68</pan>
-            <tilt>-3.54</tilt>
+            <pan>-101.82</pan>
+            <tilt>-13.98</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1709,13 +1395,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
+          <url>{node3}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>24</pan>
-            <tilt>34.13</tilt>
+            <pan>-153.28</pan>
+            <tilt>-7.6</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1728,13 +1414,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
+          <url>{node2}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>102.6</pan>
-            <tilt>42.24</tilt>
+            <pan>-170.61</pan>
+            <tilt>-3.8</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1747,13 +1433,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node5}</url>
+          <url>{node1}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>164.91</pan>
-            <tilt>33.33</tilt>
+            <pan>-92.03</pan>
+            <tilt>36.42</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1766,13 +1452,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node4}</url>
+          <url>{node6}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>41.1</pan>
-            <tilt>-4.65</tilt>
+            <pan>-140.7</pan>
+            <tilt>35.9</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1785,13 +1471,13 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
+          <url>{node5}</url>
           <autoplace>0</autoplace>
         </hotspot>
         <hotspot>
           <position>
-            <pan>111.77</pan>
-            <tilt>-7.1</tilt>
+            <pan>-171.73</pan>
+            <tilt>20.39</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1804,26 +1490,7 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>155.63</pan>
-            <tilt>-2.7</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point09</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
+          <url>{node4}</url>
           <autoplace>0</autoplace>
         </hotspot>
       </hotspots>
@@ -1831,7 +1498,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node8</id>
+      <id>node9</id>
     </panorama>
     <panorama>
       <input>
@@ -1852,12 +1519,108 @@
         <tags>CG_Room</tags>
       </userdata>
       <floorplans/>
-      <hotspots/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>135.62</pan>
+            <tilt>-11.12</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node1}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>139.86</pan>
+            <tilt>38.66</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node4}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>70.65</pan>
+            <tilt>38.24</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node5}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>24.14</pan>
+            <tilt>33.51</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node6}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-1.88</pan>
+            <tilt>-4.88</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point05</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node11}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+      </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node9</id>
+      <id>node10</id>
     </panorama>
     <panorama>
       <input>
@@ -1881,8 +1644,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-173.93</pan>
-            <tilt>-11.02</tilt>
+            <pan>-2.73</pan>
+            <tilt>-11.27</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -1895,26 +1658,7 @@
           <title>$ut</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node9}</url>
-          <autoplace>0</autoplace>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-178.19</pan>
-            <tilt>-3.16</tilt>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>$ut</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
+          <url>{node13}</url>
           <autoplace>0</autoplace>
         </hotspot>
       </hotspots>
@@ -1922,7 +1666,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node10</id>
+      <id>node11</id>
     </panorama>
     <panorama>
       <input>
@@ -1943,12 +1687,108 @@
         <tags>CG_Room</tags>
       </userdata>
       <floorplans/>
-      <hotspots/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>30.4</pan>
+            <tilt>-5.07</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node3}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>109.67</pan>
+            <tilt>-7.68</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node2}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>34.84</pan>
+            <tilt>26.37</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node6}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>94.21</pan>
+            <tilt>35.66</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node5}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>168.74</pan>
+            <tilt>30.92</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point05</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node4}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+      </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node11</id>
+      <id>node12</id>
     </panorama>
     <panorama>
       <input>
@@ -1969,33 +1809,65 @@
         <tags>CG_Room</tags>
       </userdata>
       <floorplans/>
-      <hotspots/>
-      <output/>
-      <streetview/>
-      <streetviewproject/>
-      <sounds/>
-      <id>node12</id>
-    </panorama>
-    <panorama>
-      <input>
-        <patch/>
-        <type>auto</type>
-        <filename>C:/Users/MandrewD/YandexDisk/Neznayka_O/Models/Zmeiny_3/Render/CG_Room/0013.png</filename>
-        <levelpitch>0</levelpitch>
-        <levelroll>0</levelroll>
-      </input>
-      <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
-        <pannorth>0</pannorth>
-      </viewingparameter>
-      <userdata>
-        <tags>CG_Room</tags>
-      </userdata>
-      <floorplans/>
-      <hotspots/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-176.89</pan>
+            <tilt>-4.78</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node12}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>64.79</pan>
+            <tilt>-11.76</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node3}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>38.67</pan>
+            <tilt>55.46</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <title>$ut</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node6}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+      </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
